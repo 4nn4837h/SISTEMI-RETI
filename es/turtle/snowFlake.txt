@@ -1,0 +1,216 @@
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45
+forward:120
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right:45
+forward:30
+backward:30
+left:90
+forward:30
+backward:30
+right: 45
+backward:30
+right: 45

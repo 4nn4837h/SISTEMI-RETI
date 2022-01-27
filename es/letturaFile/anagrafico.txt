@@ -1,5 +1,0 @@
-Nome: Francy
-Cognome: Simondi
-Giorno: 4
-Mese: 6
-Anno: 4
